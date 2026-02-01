@@ -8,7 +8,7 @@ Solve 1D Fokker-Planck equations with custom potentials
 (
 𝑥
 )
-U(x)
+
 
 Supports Dirichlet and Neumann boundary conditions
 
